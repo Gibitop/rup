@@ -19,7 +19,7 @@ Go to `Other Locations` -> `Connect to Server` and type in `smb://windows_comput
 7. Paste what you've copied in step 5 after `remote_path` between two `'` symbols
 8. Type the name of your project after `project_name` between two `'` symbols
 9. Type the full path to directory where you want the local copy of you project to live after `local_path` between two `'` symbols
-10. Place any launch parameters for your game after the `launch_paramters` in between `[` and `]` symbols. Place each parameter it it's own pair of `'` symbols. Seperate the, using commas.
+10. Place any launch parameters for your game after the `launch_paramters` in between `[` and `]` symbols. Place each parameter it it's own pair of `'` symbols. Seperate them using commas.
 
 Correctly configred file looks something like this:\
 ![](config.png)
