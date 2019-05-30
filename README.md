@@ -27,4 +27,6 @@ Correctly configred file looks something like this:\
 # Using rup:
 1. Open the dicrectory you downloaded rup.py into in the terminal
 2. Type `./rup.py`
-2. If `permission denied` error pops up type `chmod +x ./rup.py` and try again
+3. If `permission denied` error pops up type `chmod +x ./rup.py` and try again
+
+Now every time you package your project for linux, the script will auomaticaly detect this, download needed content and launch the project on you linux machine
